@@ -707,9 +707,9 @@ for (i = 0; i < 3; i++) {
 }
 
 // Console :
+// 0
 // 1
 // 2
-// 3
 ```
 
 ##### Générons des coordonnées aléatoires !
