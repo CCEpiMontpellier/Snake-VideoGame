@@ -46,7 +46,7 @@ L'éditeur est composé de trois grandes parties :
 4. Une zone en bas à gauche qui contient une petite console sur laquelle vous
    pourrez afficher du texte ou des informations avec la fonction `console.log`
 
-Vous avez aussi un case à cocher « Auto-refresh » qui permet de mettre à jour en
+Vous avez aussi une case à cocher « Auto-refresh » qui permet de mettre à jour en
 temps réel le côté droit de l'éditeur si vous modifiez le code source, ce qui
 peut s'avérer très pratique durant la réalisation de cet activité. Pensez donc
 à le **cocher** ! ✅
